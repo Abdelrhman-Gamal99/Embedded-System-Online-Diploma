@@ -5,10 +5,6 @@
  *      Author: Abdelrhman
  */
 
-/*Assignment1_Problem2
-* C Program to Print a Integer Entered by a User
-*/
-
 #include "stdio.h"
 int main()
 {
