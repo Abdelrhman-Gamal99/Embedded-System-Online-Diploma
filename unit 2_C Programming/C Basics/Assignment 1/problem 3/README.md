@@ -1,2 +1,2 @@
 # C Program to Add Two Integers
-![output](output.PNG)
+![output](output.png)
