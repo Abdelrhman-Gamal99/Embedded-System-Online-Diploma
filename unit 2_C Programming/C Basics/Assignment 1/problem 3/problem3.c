@@ -5,10 +5,6 @@
  *      Author: Abdelrhman
  */
 
-/*Assignment 1_Problem 3
-* C Program to Add Two Integers
-*/
-
 #include "stdio.h"
 int main()
 {
